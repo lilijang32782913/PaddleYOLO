@@ -110,7 +110,7 @@ def check_gpu(use_gpu):
         pass
 
 def check_metax_gpu(use_metax_gpu):
-     """
+    """
     Log error and exit when set use_metax_gpu=true in paddlepaddle
     cpu version.
     """
